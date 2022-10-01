@@ -3,7 +3,7 @@ body{
 }
 .navbar{
     width: 100%;
-    height: 97px;
+    height: 120px;
     background-color: #21367e;  
     
 }
@@ -21,6 +21,7 @@ body{
     
 }
 .yazi{
+    width: 800px;
     font-size: 15px;
     height: 40px;
     font-weight: 1000;
@@ -45,4 +46,208 @@ body{
     color: white;
     cursor: pointer;
     margin-top: 30px;
+}
+.car{
+    background-color: #6D26F2;
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    margin-right: 55px;
+    border-radius: 50%;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+.car-icon{
+    margin-left: 23px;
+    margin-top: 20px;
+    width: 40px;
+    height: 40px;
+    background-position: center;
+    background-size: cover;
+}
+.elec{
+    background-color: #F9CC4B;
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    margin-right: 55px;
+    border-radius: 50%;
+    margin-left: -20px;
+}
+.elec-icon{
+    margin-left: 23px;
+    margin-top: 20px;
+    width: 40px;
+    height: 40px;
+    background-position: center;
+    background-size: cover;
+}
+.build{
+    background-color: #41A957;
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    margin-right: 55px;
+    border-radius: 50%;
+    margin-left: -20px;
+    
+}
+.build-icon{
+    margin-left: 23px;
+    margin-top: 20px;
+    width: 40px;
+    height: 40px;
+    background-position: center;
+    background-size: cover;
+}
+.couch{
+    background-color: #00D9B1;
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    margin-right: 55px;
+    border-radius: 50%;
+    margin-left: -20px;
+}
+.couch-icon{
+    margin-left: 23px;
+    margin-top: 20px;
+    width: 40px;
+    height: 40px;
+    background-position: center;
+    background-size: cover;
+}
+.fitnes{
+    background-color:#3CD9FF ;
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    margin-right: 55px;
+    border-radius: 50%;
+    margin-left: -20px;
+}
+.fitnes-icon{
+    margin-left: 26px;
+    margin-top: 20px;
+    width: 40px;
+    height: 40px;
+    background-position: center;
+    background-size: cover;
+}
+.books{
+    background-color: #CE52C9;
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    margin-right: 55px;
+    border-radius: 50%;
+    margin-left: -20px;
+    
+}
+.books-icon{
+    margin-left: 26px;
+    margin-top: 20px;
+    width: 40px;
+    height: 40px;
+    background-position: center;
+    background-size: cover;
+}
+.handtools{
+    background-color: #0053F9;
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    margin-right: 55px;
+    border-radius: 50%;
+    margin-left: -20px;
+}
+.handtools-icon{
+    margin-left: 27px;
+    margin-top: 20px;
+    width: 40px;
+    height: 40px;
+    background-position: center;
+    background-size: cover;
+}
+.shop{
+    background-color: #F82535;
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    margin-right: 55px;
+    border-radius: 50%;
+    margin-left: -20px;
+}
+.shop-icon{
+    margin-left: 27px;
+    margin-top: 20px;
+    width: 40px;
+    height: 40px;
+    background-position: center;
+    background-size: cover;
+}
+.dress{
+    background-color: #BECA00 ;
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    margin-right: 55px;
+    border-radius: 50%;
+    margin-left: -20px;
+}   
+.dress-icon{
+    margin-left: 27px;
+    margin-top: 20px;
+    width: 40px;
+    height: 40px;
+    background-position: center;
+    background-size: cover;
+}
+.football{
+    background-color: #00EDFF;
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    margin-right: 55px;
+    border-radius: 50%;
+    margin-left: -20px;
+}
+.football-icon{
+    margin-left: 27px;
+    margin-top: 20px;
+    width: 40px;
+    height: 40px;
+    background-position: center;
+    background-size: cover;
+}
+.table-ul{
+    list-style-type: none;
+    margin-left: 250px;
+}
+.icon-under{
+    display: inline-block;
+    text-align: center;
+    padding-left: 32px;
+    padding-right: 30px;
+}
+h2{
+    text-align: center;
+    font-size: 15px;
+    margin-top: 30px;
+}
+.mainimg{
+    margin-top: 90px;
+    margin-left: 230px;
+    border-radius: 15px;
+    width: 1370px;
+    display: inline-block;
+}
+.imagebutton{
+    list-style-type: none;
+    text-align: center;
+    margin-left: -50px;
+    margin-top: -60px;
+    border-radius: 20%;
+    border:none;
+    cursor: pointer;
 }
