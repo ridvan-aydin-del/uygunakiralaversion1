@@ -1,7 +1,7 @@
 # uygunakirala.com version1
-# uygunakirala.com için nav bar deneme 1 1.10.2022 03:05
-# uygunakirala.com için nav bar deneme 2 1.10.2022 03:51
-# uygunakirala.com için icons deneme 1 1.10.2022 20:09
-# uygunakirala.com için icons deneme 2 1.10.2022 22:27
-# uygunakirala.com için main image deneme 1 1.10.2022 20:09
-# uygunakirala.com için product add deneme 1 2.10.2022 17.39
+# for uygunakirala.com nav bar test 1 1.10.2022 03:05
+# for uygunakirala.com nav bar test 2 1.10.2022 03:51
+# for uygunakirala.com icons test 1 1.10.2022 20:09
+# for uygunakirala.com icons test 2 1.10.2022 22:27
+# for uygunakirala.com main image test 1 1.10.2022 20:09
+# for uygunakirala.com product add test 1 2.10.2022 17.39
