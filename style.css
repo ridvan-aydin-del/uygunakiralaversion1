@@ -267,6 +267,7 @@ body{
     color: rgb(184, 188, 200);
     margin-left: 230px;
     margin-top: -10px;
+    font-size: 13px;
 }
 .buttons{
     display: flex;
@@ -522,4 +523,63 @@ body{
 }
 .uygunaYat-a{
     text-decoration: none;
+}
+.comment{
+    width: 1340px;
+    height: 550px;
+    margin-left: 230px;
+    margin-right: 230px;
+    border-radius: 2%;
+    border: 1px;
+    border-style: solid;
+    border-color: rgb(231, 232, 236);
+    margin-top: 70px;
+}
+.comment-left{
+    width: 550px;
+    display: inline-block;
+}
+.comment-image{
+    margin-top: 200px;
+    margin-left: 200px;
+}
+.comment-text-1{
+    margin-left: 200px;
+}
+.comment-text-2{
+    margin-left: 200px;
+}
+.comment-line{
+    width: 0px;
+    height: 500px;
+    border: 1px solid rgb(231, 232, 236) ;
+    margin-left: 700px;
+    margin-top: -340px;
+}
+.comment-right{
+    width: 1300px;
+    font-size: 13px;
+}
+.comment-name{
+    margin-left: 800px;
+    margin-top: -350px;
+    color: #15214a;
+}
+.comment-job{
+    margin-left: 800px;
+    margin-top: -10px;
+    color: #15214a;
+}
+.comment-text-person{
+    margin-left: 800px;
+}
+.leftbutton-comment{
+    padding-right: 20px;
+    border-radius: 50%;
+}
+.buttons-comment{
+    display: flex;
+    margin-right: 280px;
+    margin-top: 30px;
+    margin-left: 800px;
 }
