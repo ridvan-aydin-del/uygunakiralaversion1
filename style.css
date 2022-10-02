@@ -4,7 +4,7 @@ body{
 .navbar{
     width: 100%;
     height: 120px;
-    background-color: #21367e;  
+    background-color: #15214a;  
     
 }
 .logo{
@@ -30,7 +30,7 @@ body{
     outline: 0;
 }
 .ist{
-    background-color: #21367e;
+    background-color: #15214a;
     border: none;
     color: white;
     cursor: pointer;
@@ -43,7 +43,7 @@ body{
    height: 15px;
 }
 .signin{
-    background-color: #21367e;
+    background-color: #15214a;
     border: none;
     color: white;
     cursor: pointer;
@@ -233,18 +233,293 @@ body{
     margin-top: 30px;
 }
 .mainimg{
-    margin-top: 90px;
+    margin-top: 40px;
     margin-left: 230px;
     border-radius: 15px;
     width: 1370px;
     display: inline-block;
 }
 .imagebutton{
+    width: 10px;
+    height: 10px;
+    background-color: aliceblue;
     list-style-type: none;
     text-align: center;
-    margin-left: -50px;
-    margin-top: -60px;
-    border-radius: 20%;
+    margin-left: 435px;
+    margin-top: -50px;
+    border-radius: 50%;
     border:none;
     cursor: pointer;
+}
+.underimage{
+    display: flex;
+    justify-content: space-between;
+}
+.underimagetext{
+    margin-block-end: 16px;
+    margin-top: 50px;
+}
+.underimagetext-h1{
+    margin-left: 230px;
+    font-size: 16px;
+}
+.underimagetext-p{
+    color: rgb(184, 188, 200);
+    margin-left: 230px;
+    margin-top: -10px;
+}
+.buttons{
+    display: flex;
+    margin-right: 280px;
+    margin-top: 70px;
+}
+.leftbutton{
+    padding-right: 20px;
+    border-radius: 50%;
+}
+.next-button{
+    background-color: #15214a;
+    color: #fff;
+    font-size: 13px;
+    width: 30px;
+    height: 30px;
+    border-radius: 40px;
+    border: none;
+    cursor: pointer;
+}
+.product-1{
+    width: 320px;
+    height: 500px;
+    border-radius: 5%;
+    background-color: #fff;
+    margin-left: 230px;
+    display: block;
+    border: 1px;
+    border-style: solid ;
+    border-color: rgb(231, 232, 236);
+    
+}
+.product-2{
+    width: 320px;
+    height: 500px;
+    border-radius: 5%;
+    background-color: #fff;
+    display: block;
+    margin-left: 570px;
+    margin-top: -500px;
+    border: 1px;
+    border-style: solid ;
+    border-color: rgb(231, 232, 236);
+}
+.product-3{
+    width: 320px;
+    height: 500px;
+    border-radius: 5%;
+    background-color: #fff;
+    display: block;
+    margin-left: 910px;
+    margin-top: -500px;
+    border: 1px;
+    border-style: solid ;
+    border-color: rgb(231, 232, 236);
+}
+.product-4{
+    width: 320px;
+    height: 500px;
+    border-radius: 5%;
+    background-color: #fff;
+    display: block;
+    margin-left: 1250px;
+    margin-top: -500px;
+    border: 1px;
+    border-style: solid ;
+    border-color: rgb(231, 232, 236);
+}
+.uygunaArabaimage{
+    display: block;
+    width: 283px;
+    height: 141px;
+    margin-left: 20px;
+    margin-top: 15px;
+    border-radius: 15px;
+}
+.uygunaSameh2-1{    
+    width: max-content;
+    height: max-content;
+    margin-block-end: 11px;
+    padding-block: 12px;
+    padding-inline: 16px;
+    color: rgb(21, 33, 74);
+    background-color: rgba(21, 33, 74, 0.1);
+    display: flex;
+    margin-left: 20px;
+    text-align: center;
+    font-size: 14px;
+    font-weight:1000 ;
+    border-radius: 50px;
+}
+.uygunaSameh2-2{
+    margin-left: 20px;
+    font-size: 15px;
+}
+.uygunaSameh2-3{
+    margin-left: 20px;
+    font-size: 12px;
+    margin-top: -5px;
+}
+.star-same{
+    width: 120px;
+    height: 25px;
+    margin-left: 17px;
+}
+.product-1-hr{
+    border-top: 1px solid rgb(231, 232, 236);
+    display: block;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.uygunaSameh2-4{
+    margin-left: 20px;
+    font-size: 13px;
+}
+.uygunaSameh2-5{
+    margin-left: 20px;
+    font-size: 15px;
+}
+.accicon{
+    display: flex;
+    margin-left: 20px;
+    font-size: 12px;
+}
+.uygunaArabap-1{
+    display: flex;
+    margin-left: 70px;
+    font-size: 12px;
+    margin-top: -30px;
+}
+.uygunaArabah2-6{
+    display: flex;
+    margin-left: 70px;
+    font-size: 12px;
+    margin-top: -8px;
+}
+.uygunaAraba-a{
+    text-decoration: none;
+}
+.detail{
+    width: 283px;
+    height: 48px;
+    text-align: center;
+    font-size: 17px;
+    background-color: #15214a;
+    color: #fff;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-weight: 700;
+    margin-left: 20px;
+    transition: 0.7s;
+}
+.detail:hover{
+    background-color: #213269; 
+}
+
+.uygunaKaravanimage{
+    display: block;
+    width: 283px;
+    height: 141px;
+    margin-left: 20px;
+    margin-top: 15px;
+    border-radius: 15px;
+}
+.product-2-hr{
+    border-top: 1px solid rgb(231, 232, 236);
+    display: block;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.accicon{
+    display: flex;
+    margin-left: 20px;
+    font-size: 12px;
+}
+.uygunaKaravanp-1{
+    display: flex;
+    margin-left: 70px;
+    font-size: 12px;
+    margin-top: -30px;
+}
+.uygunaKaravanh2-6{
+    display: flex;
+    margin-left: 70px;
+    font-size: 12px;
+    margin-top: -8px;
+}
+.uygunaKaravan-a{
+    text-decoration: none;
+}
+
+.uygunaTekneimage{
+    display: block;
+    width: 283px;
+    height: 141px;
+    margin-left: 20px;
+    margin-top: 15px;
+    border-radius: 15px;
+}
+.uygunaTekneh2-1{
+    width: max-content;
+    height: max-content;
+    margin-block-end: 11px;
+    padding-block: 12px;
+    padding-inline: 16px;
+    color: rgb(21, 33, 74);
+    background-color: rgba(21, 33, 74, 0.1);
+    display: flex;
+    margin-left: 20px;
+    text-align: center;
+    font-size: 14px;
+    font-weight:1000 ;
+    border-radius: 50px;
+}
+.uygunaTeknep-1{
+    display: flex;
+    margin-left: 70px;
+    font-size: 12px;
+    margin-top: -30px;
+}
+.uygunaTekneh2-6{
+    display: flex;
+    margin-left: 70px;
+    font-size: 12px;
+    margin-top: -8px;
+}
+.uygunaTekne-a{
+    text-decoration: none;
+}
+
+.uygunaYatimage{
+    display: block;
+    width: 283px;
+    height: 141px;
+    margin-left: 20px;
+    margin-top: 15px;
+    border-radius: 15px;
+}
+.uygunaYatp-1{
+    display: flex;
+    margin-left: 70px;
+    font-size: 12px;
+    margin-top: -30px;
+}
+.uygunaYath2-6{
+    display: flex;
+    margin-left: 70px;
+    font-size: 12px;
+    margin-top: -8px;
+}
+.uygunaYat-a{
+    text-decoration: none;
 }
