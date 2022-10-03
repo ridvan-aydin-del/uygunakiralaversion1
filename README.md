@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 1a1e9cd2c403f3f143bc3440107259d2cb637b76
 # uygunakirala.com version 1
 
 uygunakirala.com nav bar test 1 1.10.2022 03:05
@@ -31,4 +34,7 @@ uygunakirala.com navbar fixed test 3 3.10.2022 06:38
 
   
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1a1e9cd2c403f3f143bc3440107259d2cb637b76
