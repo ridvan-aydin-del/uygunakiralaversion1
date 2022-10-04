@@ -22,6 +22,8 @@ uygunakirala.com navbar fixed test 4 3.10.2022 20:15
 
 uygunakirala.com footer add test 1 4.10.2022 20:19
 
+uygunakirala.com footer add test 2 4.10.2022 20:44
+
 ## Özellikler
 
 - Nav bar ✔️
