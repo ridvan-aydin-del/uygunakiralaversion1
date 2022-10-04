@@ -687,3 +687,13 @@ body{
 .facebook-linkedin-margin{
     margin-left: 10px;
 }
+.foot-text1-a{
+    text-decoration: none;
+    color: black;
+}
+.foot-text1-a:hover{
+    text-decoration: underline;
+}
+.foot-text3-a{
+    color: red;
+}
