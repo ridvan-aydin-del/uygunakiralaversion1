@@ -24,7 +24,7 @@ uygunakirala.com footer add test 1 4.10.2022 20:19
 
 uygunakirala.com footer add test 2 4.10.2022 20:44
 
-uygunakirala.com scrollbar add test 1 4.10.2022 20:53
+uygunakirala.com scrollbar design add test 1 4.10.2022 20:53
 
 ## Özellikler
 
