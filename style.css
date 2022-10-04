@@ -697,3 +697,11 @@ body{
 .foot-text3-a{
     color: red;
 }
+::-webkit-scrollbar {
+    background: rgb(240, 240, 240);
+    width: 10px;
+}
+::-webkit-scrollbar-thumb {
+    background: rgb(163, 163, 163);
+    width: 14px;
+}
