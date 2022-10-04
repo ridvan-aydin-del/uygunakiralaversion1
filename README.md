@@ -20,7 +20,7 @@ uygunakirala.com navbar fixed test 3 3.10.2022 06:38
 
 uygunakirala.com navbar fixed test 4 3.10.2022 20:15
 
-
+uygunakirala.com footer add test 1 4.10.2022 20:19
 
 ## Özellikler
 
@@ -29,4 +29,4 @@ uygunakirala.com navbar fixed test 4 3.10.2022 20:15
 - Main Image ✔️
 - Product List ✔️
 - Comment Left-Right Site ✔️
-- Footer 
+- Footer ✔️
